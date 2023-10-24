@@ -3,6 +3,7 @@ import Header from "./components/Header/Header"
 import Hero from "./components/Hero/Hero"
 import Error from "./components/Error/Error"
 import WaitingShimmer from "./components/LoadingShimmer/WaitingShimmer";
+import Shimmer from "./components/LoadingShimmer/Shimmer";
 import Footer from "./components/Footer/Footer"
 import Search from "./components/Search/Search";
 import {createBrowserRouter, RouterProvider, Outlet} from "react-router-dom"
