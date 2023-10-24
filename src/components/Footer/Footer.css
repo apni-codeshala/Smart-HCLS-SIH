@@ -1,0 +1,18 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #91C8E4;
+    height: 40px;
+    align-items: center;
+}
+
+.footer .copyright {
+    color: #fff;
+    font-size: 20px;
+}
+
+.footer .social a {
+    text-decoration: none;
+    color: #4682A9;
+    padding: 12px 30px;
+}
