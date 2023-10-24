@@ -1,7 +1,7 @@
 .footer {
     display: flex;
     justify-content: space-between;
-    background-color: #062246;
+    background-color: #91C8E4;
     height: 40px;
     align-items: center;
 }
@@ -13,6 +13,6 @@
 
 .footer .social a {
     text-decoration: none;
-    color: #fff;
+    color: #4682A9;
     padding: 12px 30px;
 }

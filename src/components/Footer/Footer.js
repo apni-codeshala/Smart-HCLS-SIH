@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <div className="footer">
             <div className="copyright">
-                <p>@copy 2023 - Smart HCL</p>
+                <p>@copy 2023 - Decide&Treat</p>
             </div>
             <div className="social">
                 <a href="#" className="support">Contact Us</a>

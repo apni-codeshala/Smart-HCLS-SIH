@@ -1,0 +1,40 @@
+.boxe{
+    margin: 0 5em;
+    /* background-color: aqua; */
+    height: 100vh;
+}
+.contact{
+    margin: 0 auto;
+    display: flex;
+    background-color: #91C8E4;
+    justify-content: center;
+}
+.boxe section{
+    margin: 3em 0;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 50em;
+}
+form input{
+    margin-bottom: 10px;
+}
+
+form button{
+    width: 20em;
+    padding: 1em 2em;
+    margin-top: 1em;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #91C8E4;
+    outline: none;
+    border: none;
+    border-radius: 2em;
+}
+form button:hover{
+    background-color: #F6F4EB;
+    color: #4682A9;
+}
