@@ -7,6 +7,10 @@
     background-color: #bfbbf1;
 }
 
+.hospital-card:hover {
+    background-color: #d2d1eb;
+}
+
 .hospital-card .hospital-details {
     padding: 10px;
 }
