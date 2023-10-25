@@ -3,26 +3,29 @@
     /* background-color: aqua; */
     height: 100vh;
 }
+
 .contact{
     margin: 0 auto;
     display: flex;
     background-color: #91C8E4;
     justify-content: center;
 }
+
 .boxe section{
     margin: 3em 0;
 }
-form{
+
+.contact-form{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     width: 50em;
 }
-form input{
+.contact-form input{
     margin-bottom: 10px;
 }
 
-form button{
+.contact-form button{
     width: 20em;
     padding: 1em 2em;
     margin-top: 1em;
@@ -34,7 +37,7 @@ form button{
     border: none;
     border-radius: 2em;
 }
-form button:hover{
+.contact-form button:hover{
     background-color: #F6F4EB;
     color: #4682A9;
 }

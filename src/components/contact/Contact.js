@@ -19,7 +19,7 @@ const Contact = () => {
   <section>
     <h2>Contact Form</h2>
     <p>You can also send us a message using the contact form below. We'll get back to you as soon as possible.</p>
-    <form action="process_contact_form.php" method="post">
+    <form className="contact-form" action="process_contact_form.php" method="post">
       <label for="name">Your Name:</label>
       <input type="text" id="name" name="name" required/>
       <label for="email">Email Address:</label>

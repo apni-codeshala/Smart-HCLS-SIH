@@ -1,0 +1,56 @@
+.search-page {
+    display: flex;
+}
+
+.filter {
+    width: 20%;
+    background-color: #91C8E4;
+}
+
+.filter form .form-element {
+    border-top: 2px solid black;
+    border-bottom: 2px solid #646464;
+    padding: 30px
+}
+
+.filter form .form-element label {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.filter form .form-element input {
+    padding: 5px 13px;
+}
+
+.form-element #schemes-group {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.form-element .scheme{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 30px;
+}
+
+.form-element #treatments-group {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.form-element .treatment{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 30px;
+}
+
+.hospital-cards {
+    width: 80%;
+}
+
+form button {
+    margin-left: 28%;
+    margin-top: 10px;
+    padding: 10px 40px;
+    border-radius: 5px;
+}

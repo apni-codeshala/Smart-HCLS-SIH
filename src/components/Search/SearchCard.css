@@ -1,0 +1,20 @@
+.hospital-card {
+    height: 200px;
+    margin: 20px;
+    display: flex;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: #bfbbf1;
+}
+
+.hospital-card .hospital-details {
+    padding: 10px;
+}
+
+.hospital-card .hospital-details h1 {
+    padding-bottom: 15px;
+}
+
+.hospital-card .hospital-details p span {
+    font-weight: bolder;
+}
